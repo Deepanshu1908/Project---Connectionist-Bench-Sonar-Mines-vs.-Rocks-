@@ -4,7 +4,7 @@
 bounced off a metal cylinder and those bounced off a roughly cylindrical 
 rock.
 
-• Done EDA, Feature Engineering, trained various classification models 
+• Done EDA, feature engineering, trained various classification models 
 and calculated their accuracy by using K-Fold model validation 
 technique.
 
