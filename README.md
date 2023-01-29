@@ -9,6 +9,6 @@ and calculated their accuracy by using K-Fold model validation
 technique.
 
 • After model validation, SVM gives best result but for enhancing its 
-accuracy more, tuning of model is done.
+accuracy more, tuning of model was done.
 
 • Then saved the model using pickle library.
