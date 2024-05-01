@@ -1,14 +1,11 @@
 # Project - Connectionist Bench (Sonar-Mines vs. Rocks)
 
-• The task is to train a network to discriminate between sonar signals 
-bounced off a metal cylinder and those bounced off a roughly cylindrical 
-rock.
+The objective is to develop a network capable of distinguishing between sonar signals reflected by a metal cylinder and those reflected by a roughly cylindrical rock.
 
-• Done EDA, feature engineering, trained various classification models 
-and calculated their accuracy by using K-Fold model validation 
-technique.
+• Conducted exploratory data analysis (EDA) and feature engineering.
 
-• After model validation, SVM gives best result but for enhancing its 
-accuracy more, tuning of model was done.
+• Trained multiple classification models and evaluated their accuracy using K-Fold cross-validation.
 
-• Then saved the model using pickle library.
+• Following model validation, SVM yielded the most promising results. To further refine its accuracy, model tuning was performed.
+
+• Subsequently, the model was saved using the pickle library.
